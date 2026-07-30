@@ -36,4 +36,4 @@ This project analyzes retail sales data using Microsoft Excel.
 
 📄 Click below to view the dashboard in high quality:
 
-[Retail Sales Dashboard PDF](Retail_Sales_Dashboard_PDF)
+[Retail Sales Dashboard PDF](Retail_Sales_Dashboard.pdf)
